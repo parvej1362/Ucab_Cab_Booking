@@ -60,7 +60,7 @@ Tools
 
 2️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ucab-cab-booking.git
+git clone [https://github.com/parvej1362/Ucab_Cab_Booking.git]
 cd ucab-cab-booking
 ```
 
